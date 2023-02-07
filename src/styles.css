@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.to-do-table{
+  margin: 3%;
+  padding: 0%;
+}
+.todo-container{
+  height: 1% !important;
+}
